@@ -1,0 +1,5 @@
+This research aims to quantify the inherent predictability in human-computer interactions by measuring and analyzing entropy patterns across different input modalities. The study will focus on three key interaction channels: keyboard input patterns, mouse movement trajectories, and higher-level task sequences.
+
+The research will employ information theory principles, particularly Shannon entropy measurements, to establish baseline entropy levels for each interaction type. By combining these measurements with modern machine learning techniques, we can determine what percentage of user actions can be accurately predicted given sufficient context.
+
+The project will particularly examine how various factors such as UI design, user expertise, task complexity, and temporal patterns influence the entropy levels in computer usage. This will help establish a comprehensive model of human-computer interaction predictability.

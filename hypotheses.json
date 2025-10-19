@@ -1,0 +1,11 @@
+[
+  {
+    "id": "1",
+    "hypothesis": "At least 70% of routine computer interaction patterns (keystrokes, mouse movements, and task sequences) can be predicted with an accuracy of 85% or higher when accounting for user context and interface constraints."
+  },
+  {
+    "id": "example-1",
+    "hypothesis": "This is an example hypothesis that demonstrates the expected format.",
+    "_isExample": true
+  }
+]
